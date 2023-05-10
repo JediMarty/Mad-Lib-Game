@@ -1,0 +1,11 @@
+puts ("...Mad Lib Game...")
+puts ("Enter one cool name")
+name = gets.chomp()
+puts ("Enter a number")
+num = gets.chomp()
+puts ("Enter your favourite food")
+food = gets.chomp()
+
+puts ( name +" is one of the best football players of all time.")
+puts ("He have " + num + " goals!")
+puts ("He loves " + food)
